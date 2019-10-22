@@ -13,7 +13,7 @@
 
 ## Description
 
-This is a simple app that asks the user for his/her current age and then calculates the approximate number of days based on the years (does not account for leap years). The JavaScript file utilizes `prompts` and  `alerts` to achieve this result.
+This is a simple app that asks the user for his/her current age and then calculates the approximate number of days based on the years the user has been alive (does not account for leap years).
 
 ## Installation and Development Setup
 
