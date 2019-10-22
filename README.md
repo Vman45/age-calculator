@@ -13,31 +13,17 @@
 
 ## Description
 
-This is a simple app that asks the user for his/her basic information and then retrieves that information back in the developer's console inside well-spaced complete sentences. The JavaScript file utilizes `prompts` and `console.logs` to achieve this result.
-
-#### Information requested from the user :
-
-* First name
-
-* Last name
-
-* Age
-
-#### Information retrieved in the developer's console:
-
-* Your full name is `user's full name (first + last names)`
-
-* You are `user's age` years old 
+This is a simple app that asks the user for his/her current age and then calculates the approximate number of days based on the years (does not account for leap years). The JavaScript file utilizes `prompts` and  `alerts` to achieve this result.
 
 ## Installation and Development Setup
 
 Since this project consists of a static page, there is no need to download/install any extra packages or software to run it. All you need is a basic browser and a text editor to render/edit the files.
 
-Simply click on the deployed page link (listed above) with your preferred browser to render the HTML/CSS/JS and see the page, or open it with your text editor to make changes. In order to see the information retrieval from the app's prompts, just open the developer's JavaScript console by inspecting the page with your preferred browsers' developer tools.
+Simply click on the deployed page link (listed above) with your preferred browser to render the HTML/CSS/JS and see the page, or open it with your text editor to make changes.
 
 ## Usage Example
 
-Feel free to copy this code and use it as a reference for creating more intricate apps that collect user information directly on the browser.
+Feel free to copy this code and use it as a reference for creating more intricate apps that collect user information directly on the browser and perform calculations with it.
 
 ## Contributing
 
