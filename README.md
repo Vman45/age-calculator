@@ -1,6 +1,6 @@
 # Age Calculator
 
-> Deployed Page: <https://lucasmdmartins.github.io/info-collector/>
+> Deployed Page: <https://lucasmdmartins.github.io/age-calculator/>
 >
 > Project Team: Lucas Martins
 
@@ -43,7 +43,7 @@ Feel free to copy this code and use it as a reference for creating more intricat
 
 Please follow the steps below to contribute and add code to the project:
 
-1. Fork it (<https://github.com/lucasmdmartins/info-collector/fork/>)
+1. Fork it (<https://github.com/lucasmdmartins/age-calculator/fork/>)
 2. Create your feature branch (`git checkout -b your-feature-name`)
 3. Commit your changes (`git commit -m 'your comment'`)
 4. Push to the branch (`git push origin your-feature-name`)
