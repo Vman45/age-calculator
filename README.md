@@ -13,7 +13,7 @@
 
 ## Description
 
-This is a simple app that asks the user for his/her current age and then calculates the approximate number of days based on the years the user has been alive (does not account for leap years).
+This is a simple app that asks the user for his/her current age and then calculates the approximate number of days the user has been alive (does not account for leap years).
 
 ## Installation and Development Setup
 
