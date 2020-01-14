@@ -1,19 +1,22 @@
 # Age Calculator
 
-> Deployed Page: <https://lucasmdmartins.github.io/age-calculator/>
+> **Deployed Page:** <https://lucasmdmartins.github.io/age-calculator/>
 >
-> Project Team: Lucas Martins
+> **Author:** Lucas Martins
 
 ## Technology
 
- * HTML
- * CSS
- * JavaScript
- * VS Code
+**Main Languages, Frameworks, and Libraries:** HTML5, CSS3, JavaScript
+ 
+**Other Development Tools:** Unix (zsh), Markdown, Git, GitHub, Visual Studio Code
 
 ## Description
 
-This is a simple app that asks the user for his/her current age and then calculates the approximate number of days the user has been alive (does not account for leap years).
+This app asks the user for his/her current age and then calculates the approximate number of days the user has been alive (does not account for leap years). 
+
+#### App Demo
+
+![App Demo Gif](readme-files/app-demo.gif)
 
 ## Installation and Development Setup
 
@@ -25,12 +28,14 @@ Simply click on the deployed page link (listed above) with your preferred browse
 
 Feel free to copy this code and use it as a reference for creating more intricate apps that collect user information directly on the browser and perform calculations with it.
 
-## Contributing
+## Additional Information
 
-Please follow the steps below to contribute and add code to the project:
+* **Contributing Instructions:** <https://github.com/lucasmdmartins/age-calculator/blob/master/CONTRIBUTING.md>
 
-1. Fork it (<https://github.com/lucasmdmartins/age-calculator/fork/>)
-2. Create your feature branch (`git checkout -b your-feature-name`)
-3. Commit your changes (`git commit -m 'your comment'`)
-4. Push to the branch (`git push origin your-feature-name`)
-5. Create a new pull request
+* **Issue Templates:** <https://github.com/lucasmdmartins/age-calculator/tree/master/.github/ISSUE_TEMPLATE>
+
+* **Pull Request Template:** <https://github.com/lucasmdmartins/age-calculator/blob/master/PULL_REQUEST_TEMPLATE.md>
+
+* **License:** <https://github.com/lucasmdmartins/age-calculator/blob/master/LICENSE>
+
+* **Code of Conduct:** <https://github.com/lucasmdmartins/age-calculator/blob/master/CODE_OF_CONDUCT.md>
