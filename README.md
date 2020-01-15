@@ -26,7 +26,7 @@ Simply click on the deployed page link (listed above) with your preferred browse
 
 ## Usage Example
 
-Feel free to copy this code and use it as a reference for creating more intricate apps that collect user information directly on the browser and perform calculations with it.
+Feel free to copy this code and use it as a reference for creating more intricate apps that collect user information directly on the browser and perform calculations.
 
 ## Additional Information
 
