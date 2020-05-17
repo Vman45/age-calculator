@@ -6,9 +6,9 @@
 
 ## Technology
 
-**Main Languages, Frameworks, and Libraries:** HTML5, CSS3, JavaScript
+**Languages, Frameworks, and Libraries:** HTML5, CSS3, JavaScript
  
-**Other Development Tools:** Unix (zsh), Markdown, Git, GitHub, Visual Studio Code
+**Development Tools:** Unix (zsh), Markdown, Git, GitHub, Visual Studio Code
 
 ## Description
 
